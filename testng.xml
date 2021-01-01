@@ -12,7 +12,7 @@
             <class name="com.JavaSelenium.Automation.tests.CreateAndSearchRepoTest">
                 <methods>
                     <include name="createRepository"></include>
-                    <!--<include name="searchRepository"></include>-->
+                    <include name="searchRepository"></include>
                 </methods>
             </class>
 
