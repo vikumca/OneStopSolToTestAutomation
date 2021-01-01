@@ -1,1 +1,1 @@
-# OneStopSolToTestAutomation
+# One Step Solution to Test Automation. This Framework is designed considering the enterprise needs and can be used to automate an web application with minimal or no changes. It can easily be integrated with CI/CD tools like Jenkins and can be extended to support Mobile/device automation
