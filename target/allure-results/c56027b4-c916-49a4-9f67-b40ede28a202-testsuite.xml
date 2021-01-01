@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1609332581680" stop="1609332595686" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : OneStopSolutionToTestAutomationUsingJavaSelenium</name>
+    <title>Default Suite : OneStopSolutionToTestAutomationUsingJavaSelenium</title>
+    <test-cases>
+        <test-case start="1609332581843" stop="1609332595683" status="passed">
+            <name>autoITIntegrationTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="FINLHYDAI452039"/>
+                <label name="thread" value="17548@FINLHYDAI452039.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

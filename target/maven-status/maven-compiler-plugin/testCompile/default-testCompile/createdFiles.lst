@@ -1,0 +1,4 @@
+com\JavaSelenium\Automation\tests\DeleteRepo.class
+com\JavaSelenium\Automation\tests\AutoIT.class
+com\JavaSelenium\Automation\tests\CreateAndSearchRepoTest.class
+com\JavaSelenium\Automation\base\TestBase.class

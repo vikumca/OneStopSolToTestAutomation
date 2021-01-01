@@ -1,0 +1,241 @@
+2020-12-30 14:38:46,760  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-12-30 14:38:46,774  INFO root [main] - Reading the Configuration file
+2020-12-30 14:38:47,026  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 14:38:47,944  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 14:38:58,335  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 14:38:58,394  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 14:38:59,646  INFO root [main] - https://github.com
+2020-12-30 14:38:59,647  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-12-30 14:38:59,648  INFO root [main] - WebDriver navigating to:'https://github.com'
+2020-12-30 14:39:05,646  INFO root [main] - Navigated to https://github.com link
+2020-12-30 14:39:09,948  INFO root [main] - Page loaded successfully
+2020-12-30 14:39:11,221  INFO root [main] - Element element: //a[@href='/login'] loaded
+2020-12-30 14:39:12,028  INFO root [main] - WebDriver clicking on: 'xpath: //a[@href='/login']]'
+2020-12-30 14:39:12,028  INFO root [main] - HyperLink element: //a[@href='/login'] clicked
+2020-12-30 14:39:12,028  INFO root [main] - Clicked on Sign In Link
+2020-12-30 14:39:14,131  INFO root [main] - Page loaded successfully
+2020-12-30 14:39:16,680  INFO root [main] - WebDriver clicking on: 'name: commit]'
+2020-12-30 14:39:18,741  INFO root [main] - Page loaded successfully
+2020-12-30 14:39:19,844  INFO root [main] - Element element: dashboard-repos-filter-left loaded
+2020-12-30 14:39:20,073  INFO root [main] - TextField element: dashboard-repos-filter-left => Sample-Repo set text successfully
+2020-12-30 14:39:23,093  INFO root [main] - Page loaded successfully
+2020-12-30 14:39:49,021  INFO root [main] - *** Verified: Repository is found in the list' ***
+2020-12-30 14:39:50,071  INFO root [main] - Page loaded successfully
+2020-12-30 14:40:04,268  INFO root [main] - WebDriver clicking on: 'xpath: //ul[@class='list-style-none filterable-active']]] '
+2020-12-30 14:40:04,417 ERROR root [main] - Stale element exception:
+2020-12-30 14:41:01,992  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-12-30 14:41:02,003  INFO root [main] - Reading the Configuration file
+2020-12-30 14:41:02,211  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 14:41:02,794  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 14:41:11,476  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 14:41:11,549  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 14:41:12,997  INFO root [main] - https://github.com
+2020-12-30 14:41:12,998  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-12-30 14:41:12,998  INFO root [main] - WebDriver navigating to:'https://github.com'
+2020-12-30 14:41:19,992  INFO root [main] - Navigated to https://github.com link
+2020-12-30 14:41:24,299  INFO root [main] - Page loaded successfully
+2020-12-30 14:41:25,566  INFO root [main] - Element element: //a[@href='/login'] loaded
+2020-12-30 14:41:26,437  INFO root [main] - WebDriver clicking on: 'xpath: //a[@href='/login']]'
+2020-12-30 14:41:26,437  INFO root [main] - HyperLink element: //a[@href='/login'] clicked
+2020-12-30 14:41:26,437  INFO root [main] - Clicked on Sign In Link
+2020-12-30 14:41:28,536  INFO root [main] - Page loaded successfully
+2020-12-30 14:41:30,470  INFO root [main] - WebDriver clicking on: 'name: commit]'
+2020-12-30 14:41:32,515  INFO root [main] - Page loaded successfully
+2020-12-30 14:41:33,633  INFO root [main] - Element element: (//a[@href='/new'])[2] loaded
+2020-12-30 14:41:34,805  INFO root [main] - WebDriver clicking on: 'xpath: (//a[@href='/new'])[2]]'
+2020-12-30 14:41:34,805  INFO root [main] - HyperLink element: (//a[@href='/new'])[2] clicked
+2020-12-30 14:41:36,839  INFO root [main] - Page loaded successfully
+2020-12-30 14:41:37,940  INFO root [main] - Element element: repository_name loaded
+2020-12-30 14:41:38,469  INFO root [main] - TextField element: repository_name => Sample-Repo set text successfully
+2020-12-30 14:41:38,470  INFO root [main] - Entered New repository name Sample-Repo
+2020-12-30 14:41:39,491  INFO root [main] - Page loaded successfully
+2020-12-30 14:41:40,581  INFO root [main] - Element element: repository_description loaded
+2020-12-30 14:41:41,499  INFO root [main] - TextField element: repository_description => This is Test Repo set text successfully
+2020-12-30 14:41:41,499  INFO root [main] - Entered repository description This is Test Repo
+2020-12-30 14:41:42,526  INFO root [main] - Page loaded successfully
+2020-12-30 14:41:57,974  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-12-30 14:41:57,986  INFO root [main] - Reading the Configuration file
+2020-12-30 14:41:58,199  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 14:41:58,833  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 14:42:07,489  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 14:42:07,553  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 14:42:08,705  INFO root [main] - https://github.com
+2020-12-30 14:42:08,705  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-12-30 14:42:08,705  INFO root [main] - WebDriver navigating to:'https://github.com'
+2020-12-30 14:42:15,888  INFO root [main] - Navigated to https://github.com link
+2020-12-30 14:42:20,247  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:21,547  INFO root [main] - Element element: //a[@href='/login'] loaded
+2020-12-30 14:42:22,408  INFO root [main] - WebDriver clicking on: 'xpath: //a[@href='/login']]'
+2020-12-30 14:42:22,408  INFO root [main] - HyperLink element: //a[@href='/login'] clicked
+2020-12-30 14:42:22,408  INFO root [main] - Clicked on Sign In Link
+2020-12-30 14:42:24,502  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:25,089  INFO root [main] - WebDriver clicking on: 'name: commit]'
+2020-12-30 14:42:27,961  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:29,063  INFO root [main] - Element element: dashboard-repos-filter-left loaded
+2020-12-30 14:42:29,292  INFO root [main] - TextField element: dashboard-repos-filter-left => Sample-Repo set text successfully
+2020-12-30 14:42:32,324  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:32,434  INFO root [main] - *** Verified: Repository is found in the list' ***
+2020-12-30 14:42:33,468  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:35,235  INFO root [main] - WebDriver clicking on: 'xpath: //ul[@class='list-style-none filterable-active']]] '
+2020-12-30 14:42:36,260  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:37,399  INFO root [main] - Element element: //span[contains(text(),'Settings')] loaded
+2020-12-30 14:42:37,510  INFO root [main] - WebDriver clicking on: 'xpath: //span[contains(text(),'Settings')]]'
+2020-12-30 14:42:37,511  INFO root [main] - HyperLink element: //span[contains(text(),'Settings')] clicked
+2020-12-30 14:42:39,487  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:39,497  INFO root [main] - *** Verified: Clicked on Settings button' ***
+2020-12-30 14:42:40,511  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:41,618  INFO root [main] - Element element: //summary[contains(text(), 'Delete this repository')] loaded
+2020-12-30 14:42:41,821  INFO root [main] - WebDriver clicking on: 'xpath: //summary[contains(text(), 'Delete this repository')]]'
+2020-12-30 14:42:41,821  INFO root [main] - Button element: //summary[contains(text(), 'Delete this repository')] clicked
+2020-12-30 14:42:42,838  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:43,941  INFO root [main] - Element element: //*[@id='options_bucket']/div[10]/ul/li[4]/details/details-dialog/div[3]/form/p/input loaded
+2020-12-30 14:42:44,086  INFO root [main] - TextField element: //*[@id='options_bucket']/div[10]/ul/li[4]/details/details-dialog/div[3]/form/p/input => vikumca/Sample-Repo set text successfully
+2020-12-30 14:42:45,104  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:46,196  INFO root [main] - Element element: //span[contains(text(),'I understand the consequences, delete this repository')] loaded
+2020-12-30 14:42:47,679  INFO root [main] - WebDriver clicking on: 'xpath: //span[contains(text(),'I understand the consequences, delete this repository')]]'
+2020-12-30 14:42:47,679  INFO root [main] - Button element: //span[contains(text(),'I understand the consequences, delete this repository')] clicked
+2020-12-30 14:42:48,693  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:53,714  INFO root [main] - *** Verified: Repository is deleted from the list' ***
+2020-12-30 14:42:54,739  INFO root [main] - Page loaded successfully
+2020-12-30 14:42:55,875  INFO root [main] - Element element: /html/body/div[1]/header/div[1]/a loaded
+2020-12-30 14:42:57,076  INFO root [main] - WebDriver clicking on: 'xpath: /html/body/div[1]/header/div[1]/a]'
+2020-12-30 14:42:57,076  INFO root [main] - HyperLink element: /html/body/div[1]/header/div[1]/a clicked
+2020-12-30 14:42:58,849  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-12-30 14:43:26,625  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-12-30 14:43:26,667  INFO root [main] - Reading the Configuration file
+2020-12-30 14:43:26,942  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 14:43:27,646  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 14:43:35,505  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 14:43:35,567  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 14:43:36,743  INFO root [main] - https://github.com
+2020-12-30 14:43:36,744  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-12-30 14:43:36,744  INFO root [main] - WebDriver navigating to:'https://github.com'
+2020-12-30 14:43:44,304  INFO root [main] - Navigated to https://github.com link
+2020-12-30 14:43:48,641  INFO root [main] - Page loaded successfully
+2020-12-30 14:43:49,945  INFO root [main] - Element element: //a[@href='/login'] loaded
+2020-12-30 14:43:51,368  INFO root [main] - WebDriver clicking on: 'xpath: //a[@href='/login']]'
+2020-12-30 14:43:51,369  INFO root [main] - HyperLink element: //a[@href='/login'] clicked
+2020-12-30 14:43:51,369  INFO root [main] - Clicked on Sign In Link
+2020-12-30 14:43:53,441  INFO root [main] - Page loaded successfully
+2020-12-30 14:43:55,409  INFO root [main] - WebDriver clicking on: 'name: commit]'
+2020-12-30 14:43:57,444  INFO root [main] - Page loaded successfully
+2020-12-30 14:43:58,532  INFO root [main] - Element element: (//a[@href='/new'])[2] loaded
+2020-12-30 14:43:59,577  INFO root [main] - WebDriver clicking on: 'xpath: (//a[@href='/new'])[2]]'
+2020-12-30 14:43:59,578  INFO root [main] - HyperLink element: (//a[@href='/new'])[2] clicked
+2020-12-30 14:44:01,623  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:02,819  INFO root [main] - Element element: repository_name loaded
+2020-12-30 14:44:03,494  INFO root [main] - TextField element: repository_name => Sample-Repo set text successfully
+2020-12-30 14:44:03,494  INFO root [main] - Entered New repository name Sample-Repo
+2020-12-30 14:44:04,518  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:05,621  INFO root [main] - Element element: repository_description loaded
+2020-12-30 14:44:06,452  INFO root [main] - TextField element: repository_description => This is Test Repo set text successfully
+2020-12-30 14:44:06,453  INFO root [main] - Entered repository description This is Test Repo
+2020-12-30 14:44:07,475  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:08,580  INFO root [main] - Element element: repository_auto_init loaded
+2020-12-30 14:44:08,604  INFO root [main] - Element element: repository_auto_init loaded
+2020-12-30 14:44:08,714  INFO root [main] - WebDriver clicking on: 'id: repository_auto_init]'
+2020-12-30 14:44:08,714  INFO root [main] - Checkbox element: repository_auto_init checked
+2020-12-30 14:44:08,714  INFO root [main] - Checked the repository initialization
+2020-12-30 14:44:09,734  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:10,843  INFO root [main] - Element element: //*[contains(text(),'Choose a license')] loaded
+2020-12-30 14:44:10,970  INFO root [main] - WebDriver clicking on: 'xpath: //*[contains(text(),'Choose a license')]]'
+2020-12-30 14:44:13,085  INFO root [main] - Element element: //span[contains(text(),'License:')] loaded
+2020-12-30 14:44:13,242  INFO root [main] - WebDriver clicking on: 'xpath: //span[contains(text(),'License:')]]'
+2020-12-30 14:44:14,352  INFO root [main] - Element element: //input[@placeholder='Filter licenses...'] loaded
+2020-12-30 14:44:17,114  INFO root [main] - TextField element: //input[@placeholder='Filter licenses...'] => Apache License 2.0 set text successfully
+2020-12-30 14:44:19,180  INFO root [main] - Successfully entered the License
+2020-12-30 14:44:20,204  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:21,311  INFO root [main] - Element element: //button[contains(text(),'Create repository')] loaded
+2020-12-30 14:44:21,523  INFO root [main] - WebDriver clicking on: 'xpath: //button[contains(text(),'Create repository')]]'
+2020-12-30 14:44:21,523  INFO root [main] - Button element: //button[contains(text(),'Create repository')] clicked
+2020-12-30 14:44:21,524  INFO root [main] - 
+2020-12-30 14:44:26,791  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:26,799  INFO root [main] - *** Verified: New Repo created' ***
+2020-12-30 14:44:27,845  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:28,960  INFO root [main] - Element element: /html/body/div[1]/header/div[1]/a loaded
+2020-12-30 14:44:29,846  INFO root [main] - WebDriver clicking on: 'xpath: /html/body/div[1]/header/div[1]/a]'
+2020-12-30 14:44:29,847  INFO root [main] - HyperLink element: /html/body/div[1]/header/div[1]/a clicked
+2020-12-30 14:44:30,874  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:31,956  INFO root [main] - Element element: dashboard-repos-filter-left loaded
+2020-12-30 14:44:32,360  INFO root [main] - TextField element: dashboard-repos-filter-left => Sample-Repo set text successfully
+2020-12-30 14:44:33,378  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:33,473  INFO root [main] - *** Verified: Repository is found in the list' ***
+2020-12-30 14:44:34,487  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:35,590  INFO root [main] - Element element: /html/body/div[1]/header/div[1]/a loaded
+2020-12-30 14:44:36,573  INFO root [main] - WebDriver clicking on: 'xpath: /html/body/div[1]/header/div[1]/a]'
+2020-12-30 14:44:36,574  INFO root [main] - HyperLink element: /html/body/div[1]/header/div[1]/a clicked
+2020-12-30 14:44:40,061  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-12-30 14:44:40,197  INFO root [main] - ================================ TEST STARTS NOW  =========================================
+2020-12-30 14:44:40,225  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 14:44:44,014  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 14:44:44,024  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 14:44:45,041  INFO root [main] - https://github.com
+2020-12-30 14:44:45,041  INFO root [main] - ================================ TEST METHOD STARTS  =========================================
+2020-12-30 14:44:45,041  INFO root [main] - WebDriver navigating to:'https://github.com'
+2020-12-30 14:44:50,564  INFO root [main] - Navigated to https://github.com link
+2020-12-30 14:44:54,604  INFO root [main] - Page loaded successfully
+2020-12-30 14:44:55,736  INFO root [main] - Element element: //a[@href='/login'] loaded
+2020-12-30 14:44:56,627  INFO root [main] - WebDriver clicking on: 'xpath: //a[@href='/login']]'
+2020-12-30 14:44:56,628  INFO root [main] - HyperLink element: //a[@href='/login'] clicked
+2020-12-30 14:44:56,628  INFO root [main] - Clicked on Sign In Link
+2020-12-30 14:44:58,661  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:00,616  INFO root [main] - WebDriver clicking on: 'name: commit]'
+2020-12-30 14:45:02,655  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:03,759  INFO root [main] - Element element: dashboard-repos-filter-left loaded
+2020-12-30 14:45:04,152  INFO root [main] - TextField element: dashboard-repos-filter-left => Sample-Repo set text successfully
+2020-12-30 14:45:07,171  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:07,257  INFO root [main] - *** Verified: Repository is found in the list' ***
+2020-12-30 14:45:08,272  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:09,634  INFO root [main] - WebDriver clicking on: 'xpath: //ul[@class='list-style-none filterable-active']]] '
+2020-12-30 14:45:10,652  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:11,792  INFO root [main] - Element element: //span[contains(text(),'Settings')] loaded
+2020-12-30 14:45:11,884  INFO root [main] - WebDriver clicking on: 'xpath: //span[contains(text(),'Settings')]]'
+2020-12-30 14:45:11,885  INFO root [main] - HyperLink element: //span[contains(text(),'Settings')] clicked
+2020-12-30 14:45:13,705  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:13,719  INFO root [main] - *** Verified: Clicked on Settings button' ***
+2020-12-30 14:45:14,736  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:15,842  INFO root [main] - Element element: //summary[contains(text(), 'Delete this repository')] loaded
+2020-12-30 14:45:15,952  INFO root [main] - WebDriver clicking on: 'xpath: //summary[contains(text(), 'Delete this repository')]]'
+2020-12-30 14:45:15,952  INFO root [main] - Button element: //summary[contains(text(), 'Delete this repository')] clicked
+2020-12-30 14:45:16,965  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:18,049  INFO root [main] - Element element: //*[@id='options_bucket']/div[10]/ul/li[4]/details/details-dialog/div[3]/form/p/input loaded
+2020-12-30 14:45:18,180  INFO root [main] - TextField element: //*[@id='options_bucket']/div[10]/ul/li[4]/details/details-dialog/div[3]/form/p/input => vikumca/Sample-Repo set text successfully
+2020-12-30 14:45:19,196  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:20,291  INFO root [main] - Element element: //span[contains(text(),'I understand the consequences, delete this repository')] loaded
+2020-12-30 14:45:21,749  INFO root [main] - WebDriver clicking on: 'xpath: //span[contains(text(),'I understand the consequences, delete this repository')]]'
+2020-12-30 14:45:21,749  INFO root [main] - Button element: //span[contains(text(),'I understand the consequences, delete this repository')] clicked
+2020-12-30 14:45:22,765  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:27,824  INFO root [main] - *** Verified: Repository is deleted from the list' ***
+2020-12-30 14:45:28,843  INFO root [main] - Page loaded successfully
+2020-12-30 14:45:29,935  INFO root [main] - Element element: /html/body/div[1]/header/div[1]/a loaded
+2020-12-30 14:45:30,878  INFO root [main] - WebDriver clicking on: 'xpath: /html/body/div[1]/header/div[1]/a]'
+2020-12-30 14:45:30,878  INFO root [main] - HyperLink element: /html/body/div[1]/header/div[1]/a clicked
+2020-12-30 14:45:32,349  INFO root [main] - ================================ TEST METHOD ENDS  =========================================
+2020-12-30 17:07:36,848  INFO root [main] - Reading the Configuration file
+2020-12-30 17:07:37,138  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 17:07:37,425  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 17:07:44,332  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 17:07:44,346  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 17:07:44,390  INFO root [main] - WebDriver navigating to:'http://the-internet.herokuapp.com/upload'
+2020-12-30 17:09:56,429  INFO root [main] - Reading the Configuration file
+2020-12-30 17:09:56,647  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 17:09:56,858  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 17:10:02,370  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 17:10:02,392  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 17:10:02,432  INFO root [main] - WebDriver navigating to:'http://the-internet.herokuapp.com/upload'
+2020-12-30 17:11:44,322  INFO root [main] - Reading the Configuration file
+2020-12-30 17:11:44,558  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 17:11:44,799  INFO root [main] - User had specified [WebDriverCommandSwitch] command switch for Chrome Browser
+2020-12-30 17:11:50,454  INFO root [main] - Started Google Chrome Driver with command switches successfully
+2020-12-30 17:11:50,479  INFO root [main] - Started Chrome Browser successfully.
+2020-12-30 17:11:50,512  INFO root [main] - WebDriver navigating to:'http://the-internet.herokuapp.com/upload'
+2020-12-30 17:22:28,714  INFO root [main] - Reading the Configuration file
+2020-12-30 17:22:28,988  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 17:23:44,564  INFO root [main] - Reading the Configuration file
+2020-12-30 17:23:44,814  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 18:14:12,567  INFO root [main] - Reading the Configuration file
+2020-12-30 18:14:12,801  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 18:18:12,660  INFO root [main] - Reading the Configuration file
+2020-12-30 18:18:12,898  INFO root [main] - Completed the reading of the Configuration file
+2020-12-30 18:19:42,107  INFO root [main] - Reading the Configuration file
+2020-12-30 18:19:42,363  INFO root [main] - Completed the reading of the Configuration file

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true">
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+
+    <test name="GitHubRepoActions-Automation" preserve-order="true">
+        <classes>
+            <class name="com.JavaSelenium.Automation.tests.CreateAndSearchRepoTest">
+                <methods>
+                    <include name="createRepository"></include>
+                    <!--<include name="searchRepository"></include>-->
+                </methods>
+            </class>
+
+            <class name="com.JavaSelenium.Automation.tests.DeleteRepo"/>
+
+        </classes>
+    </test>
+</suite>
