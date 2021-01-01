@@ -62,18 +62,18 @@ public class DeleteRepo extends TestBase{
     public void updateTestCaseStatus(ITestResult result) throws Exception{
         getDashboardPage().clickHomePage();
 
-//        if(result.getStatus() == ITestResult.SUCCESS ){
-//            RallyIntegration.updatedTestCaseStatusInRally(TestCaseID,result.getStatus(),
-//                    "Hackthon 1.0","Automated features");
-//        }
-//        else if(result.getStatus() == ITestResult.FAILURE){
-//            result.getMethod();
-//            RallyIntegration.updatedTestCaseStatusInRally(TestCaseID,result.getStatus(),
-//                    "Hackthon 1.0","Automated features");
-//        }
-//        else{
-//            Logs.error("Exception Occurred");
-//        }
+       if(result.getStatus() == ITestResult.SUCCESS ){
+           RallyIntegration.updatedTestCaseStatusInRally(TestCaseID,result.getStatus(),
+                   "Hackthon 1.0","Automated features");
+       }
+       else if(result.getStatus() == ITestResult.FAILURE){
+           result.getMethod();
+           RallyIntegration.updatedTestCaseStatusInRally(TestCaseID,result.getStatus(),
+                   "Hackthon 1.0","Automated features");
+       }
+       else{
+           Logs.error("Exception Occurred");
+       }
     }
 
 
