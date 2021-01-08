@@ -8,8 +8,8 @@
 	<Config name="WebDriverCommandSwitch" value="webdriver_enable_native_events,--start-maximized,--ignore-certificate-errors"></Config>	
 	<Config name="AppURL" value="https://github.com"></Config>
 	<!-- Main User that has ImpersonateUser permissions -->
-	<Config name="UserName" value="vikumca@gmail.com"></Config>
-	<Config name="Password" value="jnszzor0"></Config>
+	<Config name="UserName" value=""></Config>
+	<Config name="Password" value=""></Config>
 	<Config name="BrowserType" value="chrome"></Config> <!--ie = iexplore , FireFox = firefox , Chrome = chrome , Safari = safari -->
 	<Config name="ElementWaitTime" value="30"></Config> <!-- ElementWaitTime = 40 seconds -->
   </TestEnvironment> 
